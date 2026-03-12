@@ -7,8 +7,6 @@ I am a Computer Science student at NKUA — turning ideas into AI tools that wor
 
 👯 I’m looking to collaborate on: Innovative open-source AI projects and building intelligent, predictive pipelines with driven teams.
 
-🤝 I’m looking for help with: Best practices for scaling AI solutions and maximizing the business impact of machine learning models.
-
 🌱 I’m currently learning: Advanced deep learning concepts and exploring new initiatives in AI research.
 
 💬 Ask me about: How I built a winning sentiment analysis pipeline to classify customer reviews under tight time constraints!
