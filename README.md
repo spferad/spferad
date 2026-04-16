@@ -3,14 +3,6 @@ Hi, I'm Spyros! 👋
 
 I am a Computer Science student at NKUA — turning ideas into AI tools that work in the real world. What drives me isn't the theory alone, it's seeing an idea become something real. I'm drawn to artificial intelligence because, while it may be tech-based, it is business-driven and that's where the impact lives.
 
-🔭 I’m currently working on: Expanding my expertise in Agetnic AI, Deep Learning, Machine Learning, and Cloud Computing while finishing my BS in Informatics and Telecommunications.
-
-👯 I’m looking to collaborate on: Innovative open-source AI projects and building intelligent, predictive pipelines with driven teams.
-
-🌱 I’m currently learning: Advanced deep learning concepts and exploring new initiatives in AI research.
-
-💬 Ask me about: How I built a winning sentiment analysis pipeline to classify customer reviews under tight time constraints!
-
 ⚡ Fun fact: I actually thrive when building AI under extreme pressure—hackathons and timed competitions are my absolute comfort zone!
 
 
